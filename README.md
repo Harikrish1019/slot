@@ -1,5 +1,10 @@
 # Ex03 Time Table
-## Date:
+## Date:23/04/25
+```
+NAME:HARIKRISHNAN R
+REG NO: 24900636
+DEPT: AI&DS
+```
 
 ## AIM
 To write a html webpage page to display your slot timetable.
